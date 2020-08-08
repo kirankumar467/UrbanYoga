@@ -1,0 +1,8 @@
+.bg-custom {
+  background: #E0DFD5;
+}
+
+.h-calc {
+  height: calc(100% - 64px - 53px - 4px);
+}
+

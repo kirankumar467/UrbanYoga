@@ -1,0 +1,1327 @@
+[
+	{
+    "name": "Yoga Classes",
+    "attendance": 1022,
+		"packages": [
+			{
+        "name": "Monthly unlimited package",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 4024
+          },
+          {
+            "month": "Feb",
+            "amount": 4222
+          },
+          {
+            "month": "Mar",
+            "amount": 4121
+          },
+          {
+            "month": "Apr",
+            "amount": 4556
+          },
+          {
+            "month": "May",
+            "amount": 3068
+          },
+          {
+            "month": "Jun",
+            "amount": 2139
+          },
+          {
+            "month": "Jul",
+            "amount": 4912
+          },
+          {
+            "month": "Aug",
+            "amount": 4995
+          }
+        ]
+      },
+      {
+				"name": "Student 1 month package",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 1024
+          },
+          {
+            "month": "Feb",
+            "amount": 1222
+          },
+          {
+            "month": "Mar",
+            "amount": 1121
+          },
+          {
+            "month": "Apr",
+            "amount": 1556
+          },
+          {
+            "month": "May",
+            "amount": 1068
+          },
+          {
+            "month": "Jun",
+            "amount": 1139
+          },
+          {
+            "month": "Jul",
+            "amount": 1912
+          },
+          {
+            "month": "Aug",
+            "amount": 1995
+          }
+        ]
+      },
+      {
+				"name": "Single visit",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 124
+          },
+          {
+            "month": "Feb",
+            "amount": 222
+          },
+          {
+            "month": "Mar",
+            "amount": 121
+          },
+          {
+            "month": "Apr",
+            "amount": 556
+          },
+          {
+            "month": "May",
+            "amount": 68
+          },
+          {
+            "month": "Jun",
+            "amount": 139
+          },
+          {
+            "month": "Jul",
+            "amount": 912
+          },
+          {
+            "month": "Aug",
+            "amount": 995
+          }
+        ]
+			},
+      {
+				"name": "10 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 104
+          },
+          {
+            "month": "Feb",
+            "amount": 122
+          },
+          {
+            "month": "Mar",
+            "amount": 112
+          },
+          {
+            "month": "Apr",
+            "amount": 156
+          },
+          {
+            "month": "May",
+            "amount": 168
+          },
+          {
+            "month": "Jun",
+            "amount": 191
+          },
+          {
+            "month": "Jul",
+            "amount": 165
+          },
+          {
+            "month": "Aug",
+            "amount": 119
+          }
+        ]
+			},
+      {
+				"name": "Student single",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 424
+          },
+          {
+            "month": "Feb",
+            "amount": 182
+          },
+          {
+            "month": "Mar",
+            "amount": 621
+          },
+          {
+            "month": "Apr",
+            "amount": 868
+          },
+          {
+            "month": "May",
+            "amount": 256
+          },
+          {
+            "month": "Jun",
+            "amount": 359
+          },
+          {
+            "month": "Jul",
+            "amount": 182
+          },
+          {
+            "month": "Aug",
+            "amount": 158
+          }
+        ]
+			},
+      {
+				"name": "20 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 102
+          },
+          {
+            "month": "Feb",
+            "amount": 145
+          },
+          {
+            "month": "Mar",
+            "amount": 1241
+          },
+          {
+            "month": "Apr",
+            "amount": 56
+          },
+          {
+            "month": "May",
+            "amount": 188
+          },
+          {
+            "month": "Jun",
+            "amount": 143
+          },
+          {
+            "month": "Jul",
+            "amount": 127
+          },
+          {
+            "month": "Aug",
+            "amount": 77
+          }
+        ]
+			},
+      {
+				"name": "5 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 24
+          },
+          {
+            "month": "Feb",
+            "amount": 18
+          },
+          {
+            "month": "Mar",
+            "amount": 111
+          },
+          {
+            "month": "Apr",
+            "amount": 155
+          },
+          {
+            "month": "May",
+            "amount": 181
+          },
+          {
+            "month": "Jun",
+            "amount": 989
+          },
+          {
+            "month": "Jul",
+            "amount": 191
+          },
+          {
+            "month": "Aug",
+            "amount": 958
+          }
+        ]
+			}
+		]
+  },
+  {
+    "name": "Yoga Privates",
+    "attendance": 999,
+		"packages": [
+			{
+        "name": "Monthly unlimited package",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 4024
+          },
+          {
+            "month": "Feb",
+            "amount": 4222
+          },
+          {
+            "month": "Mar",
+            "amount": 4121
+          },
+          {
+            "month": "Apr",
+            "amount": 4556
+          },
+          {
+            "month": "May",
+            "amount": 3068
+          },
+          {
+            "month": "Jun",
+            "amount": 2139
+          },
+          {
+            "month": "Jul",
+            "amount": 4912
+          },
+          {
+            "month": "Aug",
+            "amount": 4995
+          }
+        ]
+      },
+      {
+				"name": "Student 1 month package",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 1024
+          },
+          {
+            "month": "Feb",
+            "amount": 1222
+          },
+          {
+            "month": "Mar",
+            "amount": 1121
+          },
+          {
+            "month": "Apr",
+            "amount": 1556
+          },
+          {
+            "month": "May",
+            "amount": 1068
+          },
+          {
+            "month": "Jun",
+            "amount": 1139
+          },
+          {
+            "month": "Jul",
+            "amount": 1912
+          },
+          {
+            "month": "Aug",
+            "amount": 1995
+          }
+        ]
+      },
+      {
+				"name": "Single visit",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 124
+          },
+          {
+            "month": "Feb",
+            "amount": 222
+          },
+          {
+            "month": "Mar",
+            "amount": 121
+          },
+          {
+            "month": "Apr",
+            "amount": 556
+          },
+          {
+            "month": "May",
+            "amount": 68
+          },
+          {
+            "month": "Jun",
+            "amount": 139
+          },
+          {
+            "month": "Jul",
+            "amount": 912
+          },
+          {
+            "month": "Aug",
+            "amount": 995
+          }
+        ]
+			},
+      {
+				"name": "10 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 104
+          },
+          {
+            "month": "Feb",
+            "amount": 122
+          },
+          {
+            "month": "Mar",
+            "amount": 112
+          },
+          {
+            "month": "Apr",
+            "amount": 156
+          },
+          {
+            "month": "May",
+            "amount": 168
+          },
+          {
+            "month": "Jun",
+            "amount": 191
+          },
+          {
+            "month": "Jul",
+            "amount": 165
+          },
+          {
+            "month": "Aug",
+            "amount": 119
+          }
+        ]
+			},
+      {
+				"name": "Student single",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 424
+          },
+          {
+            "month": "Feb",
+            "amount": 182
+          },
+          {
+            "month": "Mar",
+            "amount": 621
+          },
+          {
+            "month": "Apr",
+            "amount": 868
+          },
+          {
+            "month": "May",
+            "amount": 256
+          },
+          {
+            "month": "Jun",
+            "amount": 359
+          },
+          {
+            "month": "Jul",
+            "amount": 182
+          },
+          {
+            "month": "Aug",
+            "amount": 158
+          }
+        ]
+			},
+      {
+				"name": "20 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 102
+          },
+          {
+            "month": "Feb",
+            "amount": 145
+          },
+          {
+            "month": "Mar",
+            "amount": 1241
+          },
+          {
+            "month": "Apr",
+            "amount": 56
+          },
+          {
+            "month": "May",
+            "amount": 188
+          },
+          {
+            "month": "Jun",
+            "amount": 143
+          },
+          {
+            "month": "Jul",
+            "amount": 127
+          },
+          {
+            "month": "Aug",
+            "amount": 77
+          }
+        ]
+			},
+      {
+				"name": "5 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 24
+          },
+          {
+            "month": "Feb",
+            "amount": 18
+          },
+          {
+            "month": "Mar",
+            "amount": 111
+          },
+          {
+            "month": "Apr",
+            "amount": 155
+          },
+          {
+            "month": "May",
+            "amount": 181
+          },
+          {
+            "month": "Jun",
+            "amount": 989
+          },
+          {
+            "month": "Jul",
+            "amount": 191
+          },
+          {
+            "month": "Aug",
+            "amount": 958
+          }
+        ]
+			}
+		]
+  },
+  {
+    "name": "Yoga Duets",
+    "attendance": 677,
+		"packages": [
+			{
+        "name": "Monthly unlimited package",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 4024
+          },
+          {
+            "month": "Feb",
+            "amount": 4222
+          },
+          {
+            "month": "Mar",
+            "amount": 4121
+          },
+          {
+            "month": "Apr",
+            "amount": 4556
+          },
+          {
+            "month": "May",
+            "amount": 3068
+          },
+          {
+            "month": "Jun",
+            "amount": 2139
+          },
+          {
+            "month": "Jul",
+            "amount": 4912
+          },
+          {
+            "month": "Aug",
+            "amount": 4995
+          }
+        ]
+      },
+      {
+				"name": "Student 1 month package",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 1024
+          },
+          {
+            "month": "Feb",
+            "amount": 1222
+          },
+          {
+            "month": "Mar",
+            "amount": 1121
+          },
+          {
+            "month": "Apr",
+            "amount": 1556
+          },
+          {
+            "month": "May",
+            "amount": 1068
+          },
+          {
+            "month": "Jun",
+            "amount": 1139
+          },
+          {
+            "month": "Jul",
+            "amount": 1912
+          },
+          {
+            "month": "Aug",
+            "amount": 1995
+          }
+        ]
+      },
+      {
+				"name": "Single visit",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 124
+          },
+          {
+            "month": "Feb",
+            "amount": 222
+          },
+          {
+            "month": "Mar",
+            "amount": 121
+          },
+          {
+            "month": "Apr",
+            "amount": 556
+          },
+          {
+            "month": "May",
+            "amount": 68
+          },
+          {
+            "month": "Jun",
+            "amount": 139
+          },
+          {
+            "month": "Jul",
+            "amount": 912
+          },
+          {
+            "month": "Aug",
+            "amount": 995
+          }
+        ]
+			},
+      {
+				"name": "10 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 104
+          },
+          {
+            "month": "Feb",
+            "amount": 122
+          },
+          {
+            "month": "Mar",
+            "amount": 112
+          },
+          {
+            "month": "Apr",
+            "amount": 156
+          },
+          {
+            "month": "May",
+            "amount": 168
+          },
+          {
+            "month": "Jun",
+            "amount": 191
+          },
+          {
+            "month": "Jul",
+            "amount": 165
+          },
+          {
+            "month": "Aug",
+            "amount": 119
+          }
+        ]
+			},
+      {
+				"name": "Student single",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 424
+          },
+          {
+            "month": "Feb",
+            "amount": 182
+          },
+          {
+            "month": "Mar",
+            "amount": 621
+          },
+          {
+            "month": "Apr",
+            "amount": 868
+          },
+          {
+            "month": "May",
+            "amount": 256
+          },
+          {
+            "month": "Jun",
+            "amount": 359
+          },
+          {
+            "month": "Jul",
+            "amount": 182
+          },
+          {
+            "month": "Aug",
+            "amount": 158
+          }
+        ]
+			},
+      {
+				"name": "20 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 102
+          },
+          {
+            "month": "Feb",
+            "amount": 145
+          },
+          {
+            "month": "Mar",
+            "amount": 1241
+          },
+          {
+            "month": "Apr",
+            "amount": 56
+          },
+          {
+            "month": "May",
+            "amount": 188
+          },
+          {
+            "month": "Jun",
+            "amount": 143
+          },
+          {
+            "month": "Jul",
+            "amount": 127
+          },
+          {
+            "month": "Aug",
+            "amount": 77
+          }
+        ]
+			},
+      {
+				"name": "5 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 24
+          },
+          {
+            "month": "Feb",
+            "amount": 18
+          },
+          {
+            "month": "Mar",
+            "amount": 111
+          },
+          {
+            "month": "Apr",
+            "amount": 155
+          },
+          {
+            "month": "May",
+            "amount": 181
+          },
+          {
+            "month": "Jun",
+            "amount": 989
+          },
+          {
+            "month": "Jul",
+            "amount": 191
+          },
+          {
+            "month": "Aug",
+            "amount": 958
+          }
+        ]
+			}
+		]
+  },
+  {
+    "name": "Open Practice",
+    "attendance": 546,
+		"packages": [
+			{
+        "name": "Monthly unlimited package",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 4024
+          },
+          {
+            "month": "Feb",
+            "amount": 4222
+          },
+          {
+            "month": "Mar",
+            "amount": 4121
+          },
+          {
+            "month": "Apr",
+            "amount": 4556
+          },
+          {
+            "month": "May",
+            "amount": 3068
+          },
+          {
+            "month": "Jun",
+            "amount": 2139
+          },
+          {
+            "month": "Jul",
+            "amount": 4912
+          },
+          {
+            "month": "Aug",
+            "amount": 4995
+          }
+        ]
+      },
+      {
+				"name": "Student 1 month package",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 1024
+          },
+          {
+            "month": "Feb",
+            "amount": 1222
+          },
+          {
+            "month": "Mar",
+            "amount": 1121
+          },
+          {
+            "month": "Apr",
+            "amount": 1556
+          },
+          {
+            "month": "May",
+            "amount": 1068
+          },
+          {
+            "month": "Jun",
+            "amount": 1139
+          },
+          {
+            "month": "Jul",
+            "amount": 1912
+          },
+          {
+            "month": "Aug",
+            "amount": 1995
+          }
+        ]
+      },
+      {
+				"name": "Single visit",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 124
+          },
+          {
+            "month": "Feb",
+            "amount": 222
+          },
+          {
+            "month": "Mar",
+            "amount": 121
+          },
+          {
+            "month": "Apr",
+            "amount": 556
+          },
+          {
+            "month": "May",
+            "amount": 68
+          },
+          {
+            "month": "Jun",
+            "amount": 139
+          },
+          {
+            "month": "Jul",
+            "amount": 912
+          },
+          {
+            "month": "Aug",
+            "amount": 995
+          }
+        ]
+			},
+      {
+				"name": "10 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 104
+          },
+          {
+            "month": "Feb",
+            "amount": 122
+          },
+          {
+            "month": "Mar",
+            "amount": 112
+          },
+          {
+            "month": "Apr",
+            "amount": 156
+          },
+          {
+            "month": "May",
+            "amount": 168
+          },
+          {
+            "month": "Jun",
+            "amount": 191
+          },
+          {
+            "month": "Jul",
+            "amount": 165
+          },
+          {
+            "month": "Aug",
+            "amount": 119
+          }
+        ]
+			},
+      {
+				"name": "Student single",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 424
+          },
+          {
+            "month": "Feb",
+            "amount": 182
+          },
+          {
+            "month": "Mar",
+            "amount": 621
+          },
+          {
+            "month": "Apr",
+            "amount": 868
+          },
+          {
+            "month": "May",
+            "amount": 256
+          },
+          {
+            "month": "Jun",
+            "amount": 359
+          },
+          {
+            "month": "Jul",
+            "amount": 182
+          },
+          {
+            "month": "Aug",
+            "amount": 158
+          }
+        ]
+			},
+      {
+				"name": "20 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 102
+          },
+          {
+            "month": "Feb",
+            "amount": 145
+          },
+          {
+            "month": "Mar",
+            "amount": 1241
+          },
+          {
+            "month": "Apr",
+            "amount": 56
+          },
+          {
+            "month": "May",
+            "amount": 188
+          },
+          {
+            "month": "Jun",
+            "amount": 143
+          },
+          {
+            "month": "Jul",
+            "amount": 127
+          },
+          {
+            "month": "Aug",
+            "amount": 77
+          }
+        ]
+			},
+      {
+				"name": "5 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 24
+          },
+          {
+            "month": "Feb",
+            "amount": 18
+          },
+          {
+            "month": "Mar",
+            "amount": 111
+          },
+          {
+            "month": "Apr",
+            "amount": 155
+          },
+          {
+            "month": "May",
+            "amount": 181
+          },
+          {
+            "month": "Jun",
+            "amount": 989
+          },
+          {
+            "month": "Jul",
+            "amount": 191
+          },
+          {
+            "month": "Aug",
+            "amount": 958
+          }
+        ]
+			}
+		]
+  },
+  {
+    "name": "Yoga Videos",
+    "attendance": 2867,
+		"packages": [
+			{
+        "name": "Monthly unlimited package",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 4024
+          },
+          {
+            "month": "Feb",
+            "amount": 4222
+          },
+          {
+            "month": "Mar",
+            "amount": 4121
+          },
+          {
+            "month": "Apr",
+            "amount": 4556
+          },
+          {
+            "month": "May",
+            "amount": 3068
+          },
+          {
+            "month": "Jun",
+            "amount": 2139
+          },
+          {
+            "month": "Jul",
+            "amount": 4912
+          },
+          {
+            "month": "Aug",
+            "amount": 4995
+          }
+        ]
+      },
+      {
+				"name": "Student 1 month package",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 1024
+          },
+          {
+            "month": "Feb",
+            "amount": 1222
+          },
+          {
+            "month": "Mar",
+            "amount": 1121
+          },
+          {
+            "month": "Apr",
+            "amount": 1556
+          },
+          {
+            "month": "May",
+            "amount": 1068
+          },
+          {
+            "month": "Jun",
+            "amount": 1139
+          },
+          {
+            "month": "Jul",
+            "amount": 1912
+          },
+          {
+            "month": "Aug",
+            "amount": 1995
+          }
+        ]
+      },
+      {
+				"name": "Single visit",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 124
+          },
+          {
+            "month": "Feb",
+            "amount": 222
+          },
+          {
+            "month": "Mar",
+            "amount": 121
+          },
+          {
+            "month": "Apr",
+            "amount": 556
+          },
+          {
+            "month": "May",
+            "amount": 68
+          },
+          {
+            "month": "Jun",
+            "amount": 139
+          },
+          {
+            "month": "Jul",
+            "amount": 912
+          },
+          {
+            "month": "Aug",
+            "amount": 995
+          }
+        ]
+			},
+      {
+				"name": "10 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 104
+          },
+          {
+            "month": "Feb",
+            "amount": 122
+          },
+          {
+            "month": "Mar",
+            "amount": 112
+          },
+          {
+            "month": "Apr",
+            "amount": 156
+          },
+          {
+            "month": "May",
+            "amount": 168
+          },
+          {
+            "month": "Jun",
+            "amount": 191
+          },
+          {
+            "month": "Jul",
+            "amount": 165
+          },
+          {
+            "month": "Aug",
+            "amount": 119
+          }
+        ]
+			},
+      {
+				"name": "Student single",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 424
+          },
+          {
+            "month": "Feb",
+            "amount": 182
+          },
+          {
+            "month": "Mar",
+            "amount": 621
+          },
+          {
+            "month": "Apr",
+            "amount": 868
+          },
+          {
+            "month": "May",
+            "amount": 256
+          },
+          {
+            "month": "Jun",
+            "amount": 359
+          },
+          {
+            "month": "Jul",
+            "amount": 182
+          },
+          {
+            "month": "Aug",
+            "amount": 158
+          }
+        ]
+			},
+      {
+				"name": "20 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 102
+          },
+          {
+            "month": "Feb",
+            "amount": 145
+          },
+          {
+            "month": "Mar",
+            "amount": 1241
+          },
+          {
+            "month": "Apr",
+            "amount": 56
+          },
+          {
+            "month": "May",
+            "amount": 188
+          },
+          {
+            "month": "Jun",
+            "amount": 143
+          },
+          {
+            "month": "Jul",
+            "amount": 127
+          },
+          {
+            "month": "Aug",
+            "amount": 77
+          }
+        ]
+			},
+      {
+				"name": "5 class pass",
+        "sales": [
+          {
+            "month": "Jan",
+            "amount": 24
+          },
+          {
+            "month": "Feb",
+            "amount": 18
+          },
+          {
+            "month": "Mar",
+            "amount": 111
+          },
+          {
+            "month": "Apr",
+            "amount": 155
+          },
+          {
+            "month": "May",
+            "amount": 181
+          },
+          {
+            "month": "Jun",
+            "amount": 989
+          },
+          {
+            "month": "Jul",
+            "amount": 191
+          },
+          {
+            "month": "Aug",
+            "amount": 958
+          }
+        ]
+			}
+		]
+	}
+]

@@ -1,0 +1,14 @@
+a,
+a:visited,
+a:hover {
+  color: #7E7E7E;
+  text-decoration: none;
+}
+
+a.active, a:hover {
+  color: #495057;
+}
+
+.table thead th {
+  border-bottom: #495057;
+}

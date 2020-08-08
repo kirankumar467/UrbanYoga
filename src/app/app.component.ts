@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'UrbanYoga';
+  title = 'Urban Yoga';
+  navItems = ['dashboard', 'signIn', 'classes', 'workshops', 'appointments', 'clientHome', 'retail'];
 }

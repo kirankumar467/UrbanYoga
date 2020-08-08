@@ -1,0 +1,32 @@
+a,
+a:visited,
+a:hover {
+  color: #7E7E7E;
+  text-decoration: none;
+}
+
+a.active, a:hover {
+  color: #495057;
+}
+
+.bg-custom {
+  background: #E0DFD5;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.table thead th {
+  border-bottom: 2px solid #7E7E7E;
+  color: #7E7E7E;
+}
+
+.h-calc {
+  min-height: calc(100% - 64px - 53px);
+}
+
+.h-calc-4p {
+  min-height: calc(100% - 64px - 53px - 4px);
+}
+

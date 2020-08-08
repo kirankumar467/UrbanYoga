@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "UrbanYoga"
+    }
+  },
+  "defaultProject": "UrbanYoga",
+  "cli": {
+    "analytics": false
+  }
 }

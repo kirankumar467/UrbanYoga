@@ -1,0 +1,40 @@
+<app-dashboard-types></app-dashboard-types>
+<div class="row p-3 mx-1 mb-1 bg-custom h-calc" [ngClass]="{'h-calc-4p': businessOverview?.length === 0 , 'h-calc': businessOverview?.length !== 0  }">
+  <div class="col-sm">
+    <div class="row justify-content-center cursor-pointer">
+      <button class="btn btn-success"><i class="fa fa-plus"></i></button>
+    </div>
+    <div class="row justify-content-center">
+      New Program
+    </div>
+  </div>
+  <div class="col-sm-10">
+    <div class="row">
+      <div class="col-sm-4" *ngFor="let overview of businessOverview | slice: 0:3; let i=index">
+        <app-sales-details [businessOverview]="overview"></app-sales-details>
+      </div>
+    </div>
+    <div class="row pt-3">
+      <table class="table" *ngIf="businessOverview?.length">
+        <thead>
+          <tr>
+            <th>All Programs</th>
+            <th>Monthly Sales</th>
+            <th>Monthly Attendance</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let overview of businessOverview | slice: 3; let i=index" class="font-weight-bold">
+            <td>
+              {{overview?.name}}
+              <a class="d-block cursor-pointer" *ngIf="overview?.displayMore" (click)="display(overview)">more</a>
+              <app-sales-details [businessOverview]="overview" *ngIf="!overview?.displayMore"></app-sales-details>
+            </td>
+            <td>{{overview?.currentMonthAmount | currency: 'USD'}}</td>
+            <td>{{overview?.attendance}} {{overview?.name | attendanceType}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

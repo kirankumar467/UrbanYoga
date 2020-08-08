@@ -1,0 +1,55 @@
+<div class="card">
+  <div class="card-body">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+      <h5 class="card-title mb-0">{{businessOverview?.name}}</h5>
+      <button type="button" class="btn btn-default btn-sm">
+        <i class="fa fa-edit"></i>
+      </button>
+    </div>
+    <p class="card-text">Sales by month</p>
+    <app-plot-graph [type]="'bar'" mode="'bar'" [x]="xAxiesDetails[0]" [y]="yAxiesDetails[0]"></app-plot-graph>
+    <div class="row mt-3">
+      <div class="col-sm-4">
+        Total Monthly
+      </div>
+      <div class="col-sm-4">
+        Current
+      </div>
+      <div class="col-sm-4">
+        1 - Year
+      </div>
+    </div>
+    <div class="row mb-3">
+      <div class="col-sm-4">
+        Slaes
+      </div>
+      <div class="col-sm-4">
+        {{businessOverview.currentMonthAmount | currency:'USD'}}
+      </div>
+      <div class="col-sm-4">
+        <app-plot-graph [type]="'scatter'" [mode]="'lines+markers'" [x]="xAxiesDetails[0]" [y]="yAxiesDetails[0]"></app-plot-graph>
+      </div>
+    </div>
+    <div class="row" *ngIf="!businessOverview?.displayMore">
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Price Name</th>
+            <th>Current</th>
+            <th>1 - Year</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let package of businessOverview.currentMonthOverview?.packages; let i=index;">
+            <td>{{package?.name}}</td>
+            <td>{{package?.sales[0]?.amount | currency:'USD'}}</td>
+            <td>
+              <app-plot-graph [type]="'scatter'" [mode]="'lines+markers'" [x]="xAxiesDetails[i]" [y]="yAxiesDetails[i]"></app-plot-graph>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <a (click)="display(businessOverview?.displayMore)" class="cursor-pointer">{{ businessOverview?.displayMore ? 'more' : 'less'}}</a>
+  </div>
+</div>
