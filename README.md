@@ -27,7 +27,7 @@ latest version of npm. mongodb
 
   or 
 
-  ### UrbanYoga> npm start:restservice
+  ### UrbanYoga> npm run start:restservice
 
   It will start the rest server on 8081.
 
