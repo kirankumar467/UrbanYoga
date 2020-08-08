@@ -1,7 +1,7 @@
 # UrbanYoga
 
 ## Prerequisites
-latest version of npm. mongodb
+latest version of npm, mongodb
 
 ## To Run Angular Development server
 1. Go to check out location and run the below command , this will download required libraries for the project.
